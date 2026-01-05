@@ -1,0 +1,131 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNReporting", "DNReporting\DNReporting.csproj", "{8D58EE8D-33A6-47C1-AECE-411433D47C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntBotsDesktopTestingUtility", "DNReporting\SyntBotsDesktopTestingUtility\SyntBotsDesktopTestingUtility.csproj", "{F3EA7053-B8BF-448C-B873-005C050156E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atos.SyntBots.3M", "Atos.SyntBots.3M\Atos.SyntBots.3M.csproj", "{116A630B-3AF3-46D8-B705-24154DFEDF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atos.SyntBots.AccessHIM", "Atos.SyntBots.AccessHIM\Atos.SyntBots.AccessHIM.csproj", "{22472C4E-E826-464A-87F6-A8503AC7DA82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atos.SyntBots.Common", "Atos.SyntBots.Common\Atos.SyntBots.Common.csproj", "{6BCAA4E1-B5BB-4FD1-B8E2-8F6798E2FB24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atos.SyntBots.PowerChart", "Atos.SyntBots.PowerChart\Atos.SyntBots.PowerChart.csproj", "{5401F306-C7AC-4285-84A5-3D5AAD9F52C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atos.SyntBots.DN.AccountCategorization", "Atos.SyntBots.DN.AccountCategorization\Atos.SyntBots.DN.AccountCategorization.csproj", "{B2595D96-4B26-474E-A7DC-6B4D8F1CF79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atos.SyntBots.DN.AccountVerification", "Atos.SyntBots.DN.AccountVerification\Atos.SyntBots.DN.AccountVerification.csproj", "{E7522BB0-42EC-4930-B493-002A1F44E54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discern Notification", "DiscernNotificationService\Discern Notification.csproj", "{70617A2F-E22E-4B6B-87F8-BD89CA620442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atos.SyntBots.RevenueCycle", "Atos.SyntBots.RevenueCycle\Atos.SyntBots.RevenueCycle.csproj", "{5B8FACF2-6200-4B04-9160-A4B2C7796509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atos.SyntBots.DN.Dequeue", "Atos.SyntBots.DN.Dequeue\Atos.SyntBots.DN.Dequeue.csproj", "{8DD4163C-9F13-4827-80B0-F8C16CDEA766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscernDequeService", "DiscernDequeService\DiscernDequeService.csproj", "{2063E75C-9055-4BA6-96CF-DE3BEF6EDFFE}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 13
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.antheliohealth.com:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DNReporting\\DNReporting.csproj
+		SccProjectName1 = DNReporting
+		SccLocalPath1 = DNReporting
+		SccProjectUniqueName2 = DNReporting\\SyntBotsDesktopTestingUtility\\SyntBotsDesktopTestingUtility.csproj
+		SccProjectName2 = DNReporting/SyntBotsDesktopTestingUtility
+		SccLocalPath2 = DNReporting\\SyntBotsDesktopTestingUtility
+		SccProjectUniqueName3 = Atos.SyntBots.3M\\Atos.SyntBots.3M.csproj
+		SccProjectName3 = Atos.SyntBots.3M
+		SccLocalPath3 = Atos.SyntBots.3M
+		SccProjectUniqueName4 = Atos.SyntBots.AccessHIM\\Atos.SyntBots.AccessHIM.csproj
+		SccProjectName4 = Atos.SyntBots.AccessHIM
+		SccLocalPath4 = Atos.SyntBots.AccessHIM
+		SccProjectUniqueName5 = Atos.SyntBots.Common\\Atos.SyntBots.Common.csproj
+		SccProjectName5 = Atos.SyntBots.Common
+		SccLocalPath5 = Atos.SyntBots.Common
+		SccProjectUniqueName6 = Atos.SyntBots.PowerChart\\Atos.SyntBots.PowerChart.csproj
+		SccProjectName6 = Atos.SyntBots.PowerChart
+		SccLocalPath6 = Atos.SyntBots.PowerChart
+		SccProjectUniqueName7 = Atos.SyntBots.DN.AccountCategorization\\Atos.SyntBots.DN.AccountCategorization.csproj
+		SccProjectName7 = Atos.SyntBots.DN.AccountCategorization
+		SccLocalPath7 = Atos.SyntBots.DN.AccountCategorization
+		SccProjectUniqueName8 = Atos.SyntBots.DN.AccountVerification\\Atos.SyntBots.DN.AccountVerification.csproj
+		SccProjectName8 = Atos.SyntBots.DN.AccountVerification
+		SccLocalPath8 = Atos.SyntBots.DN.AccountVerification
+		SccProjectUniqueName9 = DiscernNotificationService\\Discern\u0020Notification.csproj
+		SccProjectName9 = DiscernNotificationService
+		SccLocalPath9 = DiscernNotificationService
+		SccProjectUniqueName10 = Atos.SyntBots.RevenueCycle\\Atos.SyntBots.RevenueCycle.csproj
+		SccProjectName10 = Atos.SyntBots.RevenueCycle
+		SccLocalPath10 = Atos.SyntBots.RevenueCycle
+		SccProjectUniqueName11 = Atos.SyntBots.DN.Dequeue\\Atos.SyntBots.DN.Dequeue.csproj
+		SccProjectName11 = Atos.SyntBots.DN.Dequeue
+		SccLocalPath11 = Atos.SyntBots.DN.Dequeue
+		SccProjectUniqueName12 = DiscernDequeService\\DiscernDequeService.csproj
+		SccProjectName12 = DiscernDequeService
+		SccLocalPath12 = DiscernDequeService
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D58EE8D-33A6-47C1-AECE-411433D47C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D58EE8D-33A6-47C1-AECE-411433D47C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D58EE8D-33A6-47C1-AECE-411433D47C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D58EE8D-33A6-47C1-AECE-411433D47C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3EA7053-B8BF-448C-B873-005C050156E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EA7053-B8BF-448C-B873-005C050156E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EA7053-B8BF-448C-B873-005C050156E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EA7053-B8BF-448C-B873-005C050156E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116A630B-3AF3-46D8-B705-24154DFEDF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116A630B-3AF3-46D8-B705-24154DFEDF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116A630B-3AF3-46D8-B705-24154DFEDF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116A630B-3AF3-46D8-B705-24154DFEDF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22472C4E-E826-464A-87F6-A8503AC7DA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22472C4E-E826-464A-87F6-A8503AC7DA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22472C4E-E826-464A-87F6-A8503AC7DA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22472C4E-E826-464A-87F6-A8503AC7DA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCAA4E1-B5BB-4FD1-B8E2-8F6798E2FB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCAA4E1-B5BB-4FD1-B8E2-8F6798E2FB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCAA4E1-B5BB-4FD1-B8E2-8F6798E2FB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCAA4E1-B5BB-4FD1-B8E2-8F6798E2FB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5401F306-C7AC-4285-84A5-3D5AAD9F52C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5401F306-C7AC-4285-84A5-3D5AAD9F52C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5401F306-C7AC-4285-84A5-3D5AAD9F52C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5401F306-C7AC-4285-84A5-3D5AAD9F52C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2595D96-4B26-474E-A7DC-6B4D8F1CF79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2595D96-4B26-474E-A7DC-6B4D8F1CF79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2595D96-4B26-474E-A7DC-6B4D8F1CF79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2595D96-4B26-474E-A7DC-6B4D8F1CF79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7522BB0-42EC-4930-B493-002A1F44E54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7522BB0-42EC-4930-B493-002A1F44E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7522BB0-42EC-4930-B493-002A1F44E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7522BB0-42EC-4930-B493-002A1F44E54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70617A2F-E22E-4B6B-87F8-BD89CA620442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70617A2F-E22E-4B6B-87F8-BD89CA620442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70617A2F-E22E-4B6B-87F8-BD89CA620442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70617A2F-E22E-4B6B-87F8-BD89CA620442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8FACF2-6200-4B04-9160-A4B2C7796509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8FACF2-6200-4B04-9160-A4B2C7796509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8FACF2-6200-4B04-9160-A4B2C7796509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8FACF2-6200-4B04-9160-A4B2C7796509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD4163C-9F13-4827-80B0-F8C16CDEA766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD4163C-9F13-4827-80B0-F8C16CDEA766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD4163C-9F13-4827-80B0-F8C16CDEA766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD4163C-9F13-4827-80B0-F8C16CDEA766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2063E75C-9055-4BA6-96CF-DE3BEF6EDFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2063E75C-9055-4BA6-96CF-DE3BEF6EDFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2063E75C-9055-4BA6-96CF-DE3BEF6EDFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2063E75C-9055-4BA6-96CF-DE3BEF6EDFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B10618E-E56B-4C6A-894D-7EEC77CE7DFA}
+	EndGlobalSection
+EndGlobal
