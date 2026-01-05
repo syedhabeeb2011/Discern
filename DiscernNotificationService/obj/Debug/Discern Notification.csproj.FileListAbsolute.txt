@@ -1,0 +1,11 @@
+C:\Syed\Github\dnautomation\DiscernNotificationService\bin\Debug\Discern Notification.exe.config
+C:\Syed\Github\dnautomation\DiscernNotificationService\bin\Debug\Discern Notification.exe
+C:\Syed\Github\dnautomation\DiscernNotificationService\bin\Debug\Discern Notification.pdb
+C:\Syed\Github\dnautomation\DiscernNotificationService\bin\Debug\Newtonsoft.Json.dll
+C:\Syed\Github\dnautomation\DiscernNotificationService\obj\Debug\Discern Notification.csproj.AssemblyReference.cache
+C:\Syed\Github\dnautomation\DiscernNotificationService\obj\Debug\Discern_Notification.DiscernNotificationServiceInstaller.resources
+C:\Syed\Github\dnautomation\DiscernNotificationService\obj\Debug\Discern Notification.csproj.GenerateResource.cache
+C:\Syed\Github\dnautomation\DiscernNotificationService\obj\Debug\Discern Notification.csproj.CoreCompileInputs.cache
+C:\Syed\Github\dnautomation\DiscernNotificationService\obj\Debug\Discern Notification.csproj.CopyComplete
+C:\Syed\Github\dnautomation\DiscernNotificationService\obj\Debug\Discern Notification.exe
+C:\Syed\Github\dnautomation\DiscernNotificationService\obj\Debug\Discern Notification.pdb

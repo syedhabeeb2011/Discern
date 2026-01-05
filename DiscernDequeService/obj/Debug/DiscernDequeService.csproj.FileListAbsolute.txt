@@ -1,0 +1,11 @@
+C:\Syed\Github\dnautomation\DiscernDequeService\bin\Debug\DiscernDequeService.exe.config
+C:\Syed\Github\dnautomation\DiscernDequeService\bin\Debug\DiscernDequeService.exe
+C:\Syed\Github\dnautomation\DiscernDequeService\bin\Debug\DiscernDequeService.pdb
+C:\Syed\Github\dnautomation\DiscernDequeService\bin\Debug\Newtonsoft.Json.dll
+C:\Syed\Github\dnautomation\DiscernDequeService\obj\Debug\DiscernDequeService.csproj.AssemblyReference.cache
+C:\Syed\Github\dnautomation\DiscernDequeService\obj\Debug\DiscernDequeService.DiscernDequeServiceInstaller.resources
+C:\Syed\Github\dnautomation\DiscernDequeService\obj\Debug\DiscernDequeService.csproj.GenerateResource.cache
+C:\Syed\Github\dnautomation\DiscernDequeService\obj\Debug\DiscernDequeService.csproj.CoreCompileInputs.cache
+C:\Syed\Github\dnautomation\DiscernDequeService\obj\Debug\DiscernDequeService.csproj.CopyComplete
+C:\Syed\Github\dnautomation\DiscernDequeService\obj\Debug\DiscernDequeService.exe
+C:\Syed\Github\dnautomation\DiscernDequeService\obj\Debug\DiscernDequeService.pdb
