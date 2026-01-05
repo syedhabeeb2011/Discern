@@ -1,0 +1,6 @@
+C:\Syed\Github\dnautomation\Atos.SyntBots.Common\bin\Debug\Atos.SyntBots.Common.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.Common\bin\Debug\Atos.SyntBots.Common.pdb
+C:\Syed\Github\dnautomation\Atos.SyntBots.Common\obj\Debug\Atos.SyntBots.Common.csproj.AssemblyReference.cache
+C:\Syed\Github\dnautomation\Atos.SyntBots.Common\obj\Debug\Atos.SyntBots.Common.csproj.CoreCompileInputs.cache
+C:\Syed\Github\dnautomation\Atos.SyntBots.Common\obj\Debug\Atos.SyntBots.Common.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.Common\obj\Debug\Atos.SyntBots.Common.pdb
