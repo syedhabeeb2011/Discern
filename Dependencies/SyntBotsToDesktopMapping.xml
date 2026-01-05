@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RootFiles>
+  <FileInfo>
+    <ApplicationName>SyntBotsAdapter</ApplicationName>
+    <ApplicationCode>SyntBotsAdapter</ApplicationCode>
+    <ApplicationPath>C:\Windows\System32</ApplicationPath>
+    <ApplicationEXE>Calc.exe</ApplicationEXE>
+    <ScriptID>SyntBotsAdapter</ScriptID>
+    <ImplementationAssemblyPath>C:\TFS\Syntbots\Dev\MHC\HIM\DNReporting-Exclusions\DNReporting\bin\Debug\SyntBotsDesktopImplementation.dll</ImplementationAssemblyPath>
+    <ClassName>SyntBotsDesktopImplementation.RPAScripts.SyntBotsAdapter</ClassName>
+  </FileInfo>
+  </RootFiles>

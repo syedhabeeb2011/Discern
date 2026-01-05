@@ -1,0 +1,11 @@
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\bin\Debug\Atos.SyntBots.RevenueCycle.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\bin\Debug\Atos.SyntBots.RevenueCycle.pdb
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\bin\Debug\SyntBotsUIUtility.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\bin\Debug\TestStack.White.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\bin\Debug\Castle.Core.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\bin\Debug\Castle.Core.xml
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\obj\Debug\Atos.SyntBots.RevenueCycle.csproj.AssemblyReference.cache
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\obj\Debug\Atos.SyntBots.RevenueCycle.csproj.CoreCompileInputs.cache
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\obj\Debug\Atos.SyntBots.RevenueCycle.csproj.CopyComplete
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\obj\Debug\Atos.SyntBots.RevenueCycle.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.RevenueCycle\obj\Debug\Atos.SyntBots.RevenueCycle.pdb
