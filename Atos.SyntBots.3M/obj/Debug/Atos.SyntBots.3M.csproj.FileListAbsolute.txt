@@ -1,0 +1,11 @@
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\bin\Debug\Atos.SyntBots.3M.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\bin\Debug\Atos.SyntBots.3M.pdb
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\bin\Debug\SyntBotsUIUtility.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\bin\Debug\TestStack.White.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\bin\Debug\Castle.Core.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\bin\Debug\Castle.Core.xml
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\obj\Debug\Atos.SyntBots.3M.csproj.AssemblyReference.cache
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\obj\Debug\Atos.SyntBots.3M.csproj.CoreCompileInputs.cache
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\obj\Debug\Atos.SyntBots.3M.csproj.CopyComplete
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\obj\Debug\Atos.SyntBots.3M.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.3M\obj\Debug\Atos.SyntBots.3M.pdb
