@@ -1,0 +1,83 @@
+﻿{
+    "hostName": "d0404717",
+    "botId": "d0404717_3277_Windows_WI8",
+    "botRetryCount": 0,
+    "execRetryCount": 1,
+    "currentExecCount": 1,
+    "botSecWaitForRetry": 0,
+    "header": {
+        "correlationid": "roDDErHGE0LzwJMIu2zysoLvrzIF2MHt",
+        "sopexecutionId": "5198",
+        "stepid": "1820",
+        "appcode": "SS002",
+        "botprocess": "SyntBotsAdapter",
+        "timeoutseconds": 300,
+        "userid": "1",
+        "bottype": "Windows",
+        "botAdapterOper": "write",
+        "botCredSource": null
+    },
+    "credentials": {
+        "userid": "testuserid",
+        "password": "testpass",
+        "sessionCount": 115
+    },
+    "dynamicListenerId": "CORRID_5198_1820",
+    "trackExecId": 5658,
+    "botInputData": {
+        "policyNumber": "RSAP7263800400"
+    },
+    "botOutputData": {
+        "error": [{
+            "failurereason": "",
+            "errorType": "",
+            "code": ""
+        }],
+        "responseData": {
+            "AdvanceSearchRetrievalBot": {
+                "SearchResult": {
+                    "CustomerList": "False",
+                    "CustomerData": "True"
+                },
+                "CustomerList": [{
+                    "firstName": "",
+                    "middleName": "",
+                    "lastName": "",
+                    "phoneNumber": "",
+                    "dateOfBirth": "",
+                    "address": {
+                        "addressLine1": "",
+                        "addressLine2": "",
+                        "city": "",
+                        "state": "",
+                        "country": "",
+                        "zipCode": ""
+                    }
+                }],
+                "CustomerData": {
+                    "firstName": "Les",
+                    "middleName": "",
+                    "lastName": "H",
+                    "address": "",
+                    "dateofBirth": "22/04/1985",
+                    "emailAddress": null,
+                    "mobileNumber": null,
+                    "phoneNumber": null,
+                    "conversationLog": [],
+                    "additionalPolicyList": [{
+                        "policyNumber": "",
+                        "policyStatus": "More Than",
+                        "inceptionDate": "26/06/2016",
+                        "policyType": "RSAP7263800400",
+                        "policyTransactionType": "12/07/2016"
+                    }]
+                }
+            }
+        },
+        "outcome": "Success"
+    },
+    "rules": {
+        "maxage": "30"
+    },
+    "caseType": "case4"
+}

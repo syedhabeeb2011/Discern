@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{8D58EE8D-33A6-47C1-AECE-411433D47C27}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DNReporting</RootNamespace>
+    <AssemblyName>SyntBotsDesktopImplementation</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Osman\SyntBots\Desktop_RPA\Desktop_RPA\DLLs\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntBotsDesktopBase">
+      <HintPath>..\Dependencies\SyntBotsDesktopBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntBotsUIUtility, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dependencies\SyntBotsUIUtility.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Tesseract">
+      <HintPath>..\Dependencies\Tesseract.dll</HintPath>
+    </Reference>
+    <Reference Include="TestStack.White">
+      <HintPath>..\Dependencies\TestStack.White.dll</HintPath>
+    </Reference>
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="XTractImgTxt">
+      <HintPath>..\Dependencies\XTractImgTxt.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\Debug\Castle.Core.dll" />
+    <None Include="bin\Debug\SyntBotsDesktopBase.dll" />
+    <None Include="bin\Debug\TestStack.White.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RPAScripts\SyntBotsAdapter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Atos.SyntBots.3M\Atos.SyntBots.3M.csproj">
+      <Project>{116a630b-3af3-46d8-b705-24154dfedf30}</Project>
+      <Name>Atos.SyntBots.3M</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Atos.SyntBots.AccessHIM\Atos.SyntBots.AccessHIM.csproj">
+      <Project>{22472c4e-e826-464a-87f6-a8503ac7da82}</Project>
+      <Name>Atos.SyntBots.AccessHIM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Atos.SyntBots.Common\Atos.SyntBots.Common.csproj">
+      <Project>{6bcaa4e1-b5bb-4fd1-b8e2-8f6798e2fb24}</Project>
+      <Name>Atos.SyntBots.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Atos.SyntBots.PowerChart\Atos.SyntBots.PowerChart.csproj">
+      <Project>{5401f306-c7ac-4285-84a5-3d5aad9f52c5}</Project>
+      <Name>Atos.SyntBots.PowerChart</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Atos.SyntBots.RevenueCycle\Atos.SyntBots.RevenueCycle.csproj">
+      <Project>{5b8facf2-6200-4b04-9160-a4b2c7796509}</Project>
+      <Name>Atos.SyntBots.RevenueCycle</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

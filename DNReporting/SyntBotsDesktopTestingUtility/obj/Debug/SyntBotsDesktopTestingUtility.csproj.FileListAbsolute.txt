@@ -1,0 +1,13 @@
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\bin\Debug\SyntBotsDesktopTestingUtility.exe.config
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\bin\Debug\SyntBotsDesktopTestingUtility.exe
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\bin\Debug\SyntBotsDesktopTestingUtility.pdb
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\bin\Debug\Newtonsoft.Json.dll
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\bin\Debug\SyntBotsDesktopAdpter.dll
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\obj\Debug\SyntBotsDesktopTestingUtility.csproj.AssemblyReference.cache
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\obj\Debug\SyntBotsDesktopTestingUtility.CallAutomationfrm.resources
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\obj\Debug\SyntBotsDesktopTestingUtility.Properties.Resources.resources
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\obj\Debug\SyntBotsDesktopTestingUtility.csproj.GenerateResource.cache
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\obj\Debug\SyntBotsDesktopTestingUtility.csproj.CoreCompileInputs.cache
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\obj\Debug\SyntBotsDesktopTestingUtility.csproj.CopyComplete
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\obj\Debug\SyntBotsDesktopTestingUtility.exe
+C:\Syed\Github\dnautomation\DNReporting\SyntBotsDesktopTestingUtility\obj\Debug\SyntBotsDesktopTestingUtility.pdb
