@@ -1,0 +1,13 @@
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\bin\Debug\Atos.SyntBots.PowerChart.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\bin\Debug\Atos.SyntBots.PowerChart.pdb
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\bin\Debug\Atos.SyntBots.Common.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\bin\Debug\SyntBotsUIUtility.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\bin\Debug\TestStack.White.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\bin\Debug\Castle.Core.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\bin\Debug\Atos.SyntBots.Common.pdb
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\bin\Debug\Castle.Core.xml
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\obj\Debug\Atos.SyntBots.PowerChart.csproj.AssemblyReference.cache
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\obj\Debug\Atos.SyntBots.PowerChart.csproj.CoreCompileInputs.cache
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\obj\Debug\Atos.SyntBots.PowerChart.csproj.CopyComplete
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\obj\Debug\Atos.SyntBots.PowerChart.dll
+C:\Syed\Github\dnautomation\Atos.SyntBots.PowerChart\obj\Debug\Atos.SyntBots.PowerChart.pdb
